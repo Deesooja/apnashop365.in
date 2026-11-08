@@ -1,0 +1,214 @@
+[
+  {
+    "id": "as365-n01",
+    "slug": "golden-pearl-choker",
+    "name": "Golden Pearl Choker",
+    "category": "necklaces",
+    "price": 2499,
+    "discountPrice": 1899,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80"
+    ],
+    "material": "Alloy with artificial pearls",
+    "description": "Elegant choker with soft pearl drops — ideal for festive evenings and celebrations.",
+    "tags": ["choker", "pearl", "festive"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-10-12T10:00:00.000Z"
+  },
+  {
+    "id": "as365-n02",
+    "slug": "layered-kundan-haar",
+    "name": "Layered Kundan Haar",
+    "category": "necklaces",
+    "price": 3999,
+    "discountPrice": 3299,
+    "images": [
+      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+      "https://images.unsplash.com/photo-1601121141461-9d791f8c3f8d?w=900&q=80"
+    ],
+    "material": "Kundan-style alloy",
+    "description": "Multi-layer haar with kundan-inspired detailing for weddings and parties.",
+    "tags": ["kundan", "layered", "wedding"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "as365-n03",
+    "slug": "minimal-chain-pendant",
+    "name": "Minimal Chain Pendant",
+    "category": "necklaces",
+    "price": 999,
+    "discountPrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80"
+    ],
+    "material": "Gold-plated brass",
+    "description": "Everyday minimal pendant on a fine chain — light and comfortable.",
+    "tags": ["minimal", "daily"],
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": "2025-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "as365-e01",
+    "slug": "crystal-drop-earrings",
+    "name": "Crystal Drop Earrings",
+    "category": "earrings",
+    "price": 1499,
+    "discountPrice": 1199,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80",
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=900&q=80"
+    ],
+    "material": "Alloy with glass crystals",
+    "description": "Sparkling drop earrings that catch the light with every turn.",
+    "tags": ["crystal", "drop", "party"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-10-28T10:00:00.000Z"
+  },
+  {
+    "id": "as365-e02",
+    "slug": "jhumka-bell-earrings",
+    "name": "Jhumka Bell Earrings",
+    "category": "earrings",
+    "price": 1799,
+    "discountPrice": 1499,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?w=900&q=80"
+    ],
+    "material": "Oxidised alloy",
+    "description": "Classic jhumka silhouette with soft bell movement — ethnic and graceful.",
+    "tags": ["jhumka", "ethnic"],
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": "2025-08-15T10:00:00.000Z"
+  },
+  {
+    "id": "as365-e03",
+    "slug": "stud-bloom-earrings",
+    "name": "Stud Bloom Earrings",
+    "category": "earrings",
+    "price": 799,
+    "discountPrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=900&q=80"
+    ],
+    "material": "Gold-tone alloy",
+    "description": "Floral studs for daily wear — comfortable push-back closure.",
+    "tags": ["stud", "floral", "daily"],
+    "inStock": false,
+    "isFeatured": false,
+    "createdAt": "2025-07-22T10:00:00.000Z"
+  },
+  {
+    "id": "as365-r01",
+    "slug": "solitaire-look-ring",
+    "name": "Solitaire Look Ring",
+    "category": "rings",
+    "price": 1299,
+    "discountPrice": 999,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=900&q=80",
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80"
+    ],
+    "material": "Cubic zirconia on alloy",
+    "description": "A bold solitaire-inspired ring for evening looks and gifting.",
+    "tags": ["solitaire", "gift"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "as365-r02",
+    "slug": "stackable-band-set",
+    "name": "Stackable Band Set",
+    "category": "rings",
+    "price": 899,
+    "discountPrice": 749,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=900&q=80"
+    ],
+    "material": "Mixed metal alloy",
+    "description": "Set of three slim bands designed to stack or wear alone.",
+    "tags": ["stackable", "set"],
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": "2025-09-18T10:00:00.000Z"
+  },
+  {
+    "id": "as365-b01",
+    "slug": "mirror-work-bangles",
+    "name": "Mirror Work Bangles",
+    "category": "bangles",
+    "price": 2199,
+    "discountPrice": 1799,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=900&q=80"
+    ],
+    "material": "Lac with mirror accents",
+    "description": "Pair of festive bangles with traditional mirror sparkle.",
+    "tags": ["mirror", "festive", "pair"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-10-05T10:00:00.000Z"
+  },
+  {
+    "id": "as365-b02",
+    "slug": "slim-goldtone-bangle",
+    "name": "Slim Goldtone Bangle",
+    "category": "bangles",
+    "price": 699,
+    "discountPrice": null,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80"
+    ],
+    "material": "Gold-plated metal",
+    "description": "A slim everyday bangle with a polished finish.",
+    "tags": ["slim", "daily"],
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-30T10:00:00.000Z"
+  },
+  {
+    "id": "as365-s01",
+    "slug": "bridal-sparkle-set",
+    "name": "Bridal Sparkle Set",
+    "category": "sets",
+    "price": 5499,
+    "discountPrice": 4499,
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80"
+    ],
+    "material": "Alloy with AD stones",
+    "description": "Necklace and earring set with abundant sparkle for bridal functions.",
+    "tags": ["bridal", "set", "ad"],
+    "inStock": true,
+    "isFeatured": true,
+    "createdAt": "2025-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "as365-s02",
+    "slug": "office-chic-set",
+    "name": "Office Chic Set",
+    "category": "sets",
+    "price": 1999,
+    "discountPrice": 1599,
+    "images": [
+      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80",
+      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=900&q=80"
+    ],
+    "material": "Gold-tone alloy",
+    "description": "Understated necklace and studs set for workwear elegance.",
+    "tags": ["office", "minimal", "set"],
+    "inStock": true,
+    "isFeatured": false,
+    "createdAt": "2025-08-08T10:00:00.000Z"
+  }
+]

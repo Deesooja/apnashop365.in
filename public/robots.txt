@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apnashop365.in/sitemap.xml

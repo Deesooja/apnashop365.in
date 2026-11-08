@@ -1,0 +1,34 @@
+---
+description: ApnaShop365 project rules
+alwaysApply: true
+---
+
+# Project: ApnaShop365.in (fancy jewelry storefront, frontend only)
+
+## Stack
+- React.js (Vite), plain JavaScript, Material UI v5+, Redux Toolkit,
+  React Router, react-helmet-async
+- No backend, no database, no auth, no payment gateway
+
+## Architecture rules
+- Business facts (phone, social links, address, policy text, delivery charge)
+  live ONLY in src/config/siteConfig.js. Never hardcode them in components.
+- Unknown facts must be marked with // TODO: comments, never invented.
+- Products and categories come from src/data/*.json via ProductService only.
+- Redux is used ONLY for cart and cart-drawer UI state.
+- Non-UI logic uses classes: ProductService, WhatsAppLinkBuilder,
+  PriceFormatter, CartPersistence.
+- UI components are small, reusable, and presentational.
+
+## Style rules
+- Mobile-first. Test at 360px width first.
+- Colors and fonts come from src/theme/theme.js only.
+- Accessible: alt text, aria-labels, keyboard navigation.
+- No console errors or warnings. Keep code ESLint-clean.
+- Short, useful comments only.
+
+## Workflow rules
+- Work phase by phase. After each phase, run `npm run build` and fix errors
+  before moving on.
+- Do not skip files or leave "implement later" stubs.
+- Do not add features outside the brief.
